@@ -1,0 +1,40 @@
+What is Cloud?
+->  "The cloud" refers to servers that are accessed over the   Internet, and the software and databases that run on those   servers. Cloud servers are located in data centers all over the   world. By using cloud computing, users and companies don't have to   manage physical servers themselves or run software applications on   their own machines.
+
+   1>cloud computing means storing and accessing data and programs       over the Internet instead of your computer's hard drive. The          cloud is just a metaphor for the Internet. 
+   2>The information is stored on physical servers maintained and       controlled by a cloud computing provider, such as Apple in       regards to iCloud.
+   3>In simple words,nothing is stored on your local hard drive and    it is accessible from any location, any device and at any time.
+
+
+
+what are different types of cloud?
+->
+    There are 3 types of cloud:
+    
+    1>private cloud
+    2>public cloud
+    3>hybrid cloud
+Private cloud:
+            A private cloud is a server, data center, or distributed             network wholly dedicated to one organization.
+            It is for specific organization or company.
+            Eg-  US government has its own cloud created by amazon
+Public cloud:
+            A public cloud is a service run by an external vendor               that may include servers in one or multiple data                     centers. Unlike a private cloud, public clouds are shared            by  multiple organizations. Using virtual machines,                  individual servers may be shared by different companies,             a situation that is called "multitenancy" because                    multiple tenants are renting server space within the                 same server.
+           Public cloud is available to everyone.
+Hybrid cloud:
+            Hybrid cloud deployments combine public and private            clouds, and may even include on-premises legacy servers.            An organization may use their private cloud for some            services and their public cloud for others, or they may            use the public cloud as backup for their private cloud.
+
+What are adv and disadv of cloud EC-2?
+->
+Adv:
+    1>EC2 has wide variety of machine configurations. If the     intended solutions are memory heavy, CPU heavy, GPU heavy or IO     heavy, EC2 will provide proper machine configurations as per the     requirements.
+   2>EC2 has lot of Machine Images to setup OS and required    softwares. It also allows you to create the image of your own       disk. This facilitates user to stop the EC2 instance without        loosing the work. It helps to reduce the bill. The image can be    attached again to EC2 to start from the same place from where it    was left.
+   3>Amazon allows different way to obtain instances like on-demand,    spot and reserved. Depending upon the need, one can take wise     decision to save cost and address the situation in the best      possible way.
+
+
+Disadv:
+      1>This service is a bit difficult to consume. New users need a       big learning curve to use this service effectively.
+      2>UI for EC2 service is a little complex and at many places,       it misses detailed explanation.
+      3>Sometimes it takes too long to create images of EC2       instances. This keeps your EC2 up for that extra time. When       instances are heavy, it penalizes a lot of money.
+
+           
